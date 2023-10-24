@@ -8,6 +8,18 @@
   --lilas-escuro: #0C0421;
 }
 
+object:focus {
+  border: 1px solid red;
+}
+
+.span-teste {
+  background-image: url("/assets/Instragam.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 15px;
+}
+
+
 * {
   padding: 0;
   margin: 0;
