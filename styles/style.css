@@ -8,10 +8,6 @@
   --lilas-escuro: #0C0421;
 }
 
-object:focus {
-  border: 2px solid red;
-}
-
 * {
   padding: 0;
   margin: 0;
