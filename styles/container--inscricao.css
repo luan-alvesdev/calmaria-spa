@@ -16,6 +16,14 @@
     display: none;
 }
 
+.container__incricao .container__incricao--form-titulo {
+    font-size: 2.6rem;
+}
+
+.container__incricao .container__incricao--form-texto {
+    font-size: 2.2rem;
+}
+
 .container__incricao .container__incricao--div {
     display: flex;
     flex-direction: column;
@@ -39,7 +47,7 @@
     width: 65%;
     margin-left: 32px;
     font-family: "Montserrat", sans-serif;
-    font-size: 1.3rem;
+    font-size: 2.0rem;
     color: #0C0421;
 }
 
@@ -49,7 +57,7 @@
     background: var(--azul-escuro);
     border-radius: 0 65px 65px 0;
     border: none;
-    font-size: 1.4rem;
+    font-size: 2.4rem;
     font-weight: 700;
     font-family: 'Montserrat';
     display: flex;
@@ -84,7 +92,7 @@
     }
 
     .container__incricao .container__incricao--form-titulo {
-        font-size: 1.9rem;
+        font-size: 3.1rem;
         font-family: Krona One;
         font-weight: 400;
     }
