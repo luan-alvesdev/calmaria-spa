@@ -17,7 +17,7 @@
   }
   
   .cabecalho__nav--lista {
-    font-size: 0.9rem;
+    font-size: 0.9375rem;
   }
   
   .cabecalho .cabecalho__nav .cabecalho__nav--line {
@@ -52,7 +52,7 @@
     }
   
     .cabecalho__nav--lista {
-      font-size: 1.3rem;
+      font-size: 1.375rem;
     }
   
   }
